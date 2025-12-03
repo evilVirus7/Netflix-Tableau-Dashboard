@@ -9,7 +9,7 @@ This repository contains the analysis and visual exploration of 6,254 Netflix ti
 > Replace the placeholder image link below with your actual project screenshot.
 
 <p align="center">
-  <img src="assets/dashboard_preview.png" alt="Netflix Dashboard Preview" width="850">
+  <img src="https://github.com/evilVirus7/Netflix-Tableau-Dashboard/blob/master/Netflix%20Dashboard.png" alt="Netflix Dashboard Preview" width="850">
 </p>
 
 ---
